@@ -1,0 +1,5 @@
+<body bgcolor=*red*>
+
+	<font color=*green*>welcome to httpd server</font>
+
+</body>
